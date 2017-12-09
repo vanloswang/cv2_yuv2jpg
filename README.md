@@ -2,8 +2,8 @@
 using opencv2 to convert yuv raw image to jpg 
 
 #Compile
-make clean
-make
+</br>make clean
+</br>make
 
 #Usage
-./cv2_yuv2rgb -f nv12.raw -w 1280 -h 720 -o image.jpg
+</br>./cv2_yuv2rgb -f nv12.raw -w 1280 -h 720 -o image.jpg
